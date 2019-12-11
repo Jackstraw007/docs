@@ -13,20 +13,7 @@ This is the text of the section.
 
 d
 
-d
-
-d
-
-d
-
-d
-
-dd
-
-d
-
-d
-
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 d
 
 d
